@@ -31,7 +31,7 @@ class Mahasiswa {
 }
 
 // Membuat objek dari class Mahasiswa
-$mahasiswa1 = new Mahasiswa("ivan nadhim saputra", "23.240.0007", "Teknik Informatika", 3);
+$mahasiswa1 = new Mahasiswa("Muhammad khoiril shodiq", "23.240.018", "Teknik Informatika", 3);
 
 // Menampilkan informasi mahasiswa
 $mahasiswa1->tampilkanInfo();
